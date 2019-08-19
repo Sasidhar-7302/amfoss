@@ -8,14 +8,14 @@ completed 1st,2nd,3rd problems in Task 13.
 
 
 Tasks haven't done
-task 3
-task 4
-task 5
-task 6
-task 7
-task 9
-task 10
-task 11
-task 12 
-task 14
+task 3,
+task 4,
+task 5,
+task 6,
+task 7,
+task 9,
+task 10,
+task 11,
+task 12 ,
+task 14.
 reason is lack of time because of some projects in college and late joining in the group  
