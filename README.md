@@ -11,8 +11,11 @@ installed ubuntu and dual booted it in my laptop.
 completed task 1 just followed the instructions.   
 completed task 2 read the questions and tok some references from internet to solve these questions.
 completed task 8 installed tesseract.ocr and followed a video in youtube how to do that.
+completed task 9 ceated an blog about my tasks and its details.
+task 10 is not completed yet but saw videos about that should do problemsets.
+task 11 wrote the code for pong game but i have to rectify some mistakes like the score count i have to rectify that.
 completed 1st,2nd,3rd problems in Task 13.
-
+completed tasik 14 band it in ubuntu in terminal it is an interesting task to do becaus of doing this i learnt many commands.
 
 Tasks haven't done
 task 3,
@@ -20,9 +23,5 @@ task 4,
 task 5,
 task 6,
 task 7,
-task 9,
-task 10,
-task 11,
-task 12 ,
-task 14.
+task 12.
 reason is lack of time because of some projects in college and late joining in the group  
